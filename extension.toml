@@ -4,4 +4,4 @@ description = "A theme for Zed editor inspired by the Moegi color palette."
 version = "1.0.0"
 schema_version = 1
 repository = "https://github.com/nofuncoding/moegi-zed-theme"
-authors = ["Diu", "NoFun"]
+authors = ["Diu", "NoFun <nofuncoding@qq.com>"]
